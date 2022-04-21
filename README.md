@@ -9,6 +9,7 @@
 
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/BerkieBb/qb-target)
+- [PolyZone](https://github.com/mkafrin/PolyZone)
 ## طريقة التركيب
 
 عليك الذهاب الى qb-target
